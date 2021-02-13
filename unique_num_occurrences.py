@@ -11,3 +11,6 @@ def uniqueOccurrences(self, arr):
             return False
         seen.append(i)
     return True
+
+uniqueOccurences([1, 2, 2, 3, 3, 3)
+uniqueOccurences([1, 2, 2, 3, 3)
